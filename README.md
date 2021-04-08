@@ -1,5 +1,5 @@
 # AZZ4-BOT
-Meu bot discord
+Meu 1º bot discord
 
 Esse bot foi criando quando eu ainda estava aprendendo js, eu o codei vendo videos dos canais https://www.youtube.com/c/PedroRicardoR e https://www.youtube.com/c/HyoukaOficial
 
