@@ -60,7 +60,6 @@ client.on("ready", () => {
         `${client.channels.cache.size} canais`,
         `${client.users.cache.size} usuários`,
         `Entrem no meu servidor | aS3VnpE`,
-       // `COD-Mobile`
     ]
     i = 0
     setInterval(() => client.user.setActivity(`${actives[i++ % actives.length]}`, {
