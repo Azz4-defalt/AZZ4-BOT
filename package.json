@@ -1,0 +1,17 @@
+{
+  "name": "z3r01-bot",
+  "version": "1.2.0",
+  "description": "Bot para o discord",
+  "main": "core.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon core"
+  },
+  "author": "N1cK <45100971+N1cK-code@users.noreply.github.com>",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "nodemon": "^2.0.4",
+    "yarn": "^1.22.4"
+  }
+}
