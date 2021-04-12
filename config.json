@@ -1,9 +1,8 @@
 {
-    "token": "NzE1OTA2ODUxNTA1NTY5ODYz.XtECNg.2Iw72AmOVOcrRmUFUAGl75PtGCk", 
+    "token": "token do seu bot", 
     "debug": true,
-    "prefix": "</", 
-    "wellcome": "728000514394030210", 
-    "guild": "625561137496457216", 
-    "bye": "733714190564458567" 
-
+    "prefix": "</",
+    "wellcome": "id da sala de bem vindo",
+    "guild": "id do seu servidor",
+    "bye": "id da sala de saida"
 }
