@@ -1,9 +1,9 @@
 {
-    "token": "NzE1OTA2ODUxNTA1NTY5ODYz.XukHVQ.7cFfx-0Y34YQ1MpUmyv6jG9ixck", // Your bot's token | O token do seu bot
+    "token": "NzE1OTA2ODUxNTA1NTY5ODYz.XtECNg.2Iw72AmOVOcrRmUFUAGl75PtGCk", 
     "debug": true,
-    "prefix": "</", // O prefixo desejado | The desired prefix 
-    "wellcome": "728000514394030210", //O id da sua sala de bem-vindo | Your welcome room id
-    "guild": "625561137496457216", //O id do seu servidor | Your server id
-    "bye": "733714190564458567" // O id da sua sala de "saida" | Your "exit" room id
+    "prefix": "</", 
+    "wellcome": "728000514394030210", 
+    "guild": "625561137496457216", 
+    "bye": "733714190564458567" 
 
 }
