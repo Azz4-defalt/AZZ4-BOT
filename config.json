@@ -1,0 +1,8 @@
+{
+    "token": "token do seu bot", 
+    "debug": true,
+    "prefix": "</",
+    "wellcome": "id da sala de bem vindo",
+    "guild": "id do seu servidor",
+    "bye": "id da sala de saida"
+}
