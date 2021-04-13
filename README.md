@@ -2,6 +2,7 @@
 Meu 1º bot discord
 
 Esse bot foi criando quando eu ainda estava aprendendo js, eu o codei vendo videos dos canais https://www.youtube.com/c/PedroRicardoR e https://www.youtube.com/c/HyoukaOficial
+Esse bot foi criado para ser usado em servidor unico.
 
 Instalação de dependencias
 ```
@@ -9,6 +10,10 @@ Instalação de dependencias
 
 $ curl -fsSL https://deb.nodesource.com/setup_lts.x | bash -
 $ apt-get install -y nodejs
+
+#Yarn (caso queira)
+
+sudo npm install -g yarn
 ```
 Instalação e start
 ```
@@ -17,9 +22,9 @@ $ git clone https://github.com/Azz4-defalt/AZZ4-BOT.git
 $ cd AZZ4-BOT 
 
 #instalar todas as depedencias do bot
-$ npm install
+$ npm install ou $ yarn install
 
-$ npm start
+$ npm start ou $ yarn start
 
 ```
 
