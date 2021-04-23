@@ -41,8 +41,9 @@ $ npm install ou $ yarn install
 $ npm start ou $ yarn start
 
 # Caso rode corretamente sera exibida a mensagem no log
+$ yarn start
 yarn run v1.22.10
-$ nodemon core
+nodemon core
 [nodemon] 2.0.4
 [nodemon] to restart at any time, enter `rs`
 [nodemon] watching path(s): *.*
